@@ -4,7 +4,8 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.woff') format('woff');
+    src: url('/fontes/idroid.woff2') format('woff2');
     font-weight: normal;
 }
 :root {
