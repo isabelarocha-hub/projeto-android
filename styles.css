@@ -4,8 +4,9 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('../projeto-android/fontes/idroid.otf') format('opentype');
+    src: url ('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
+    
 }
 :root {
 --cor0: #c5ebd6;
